@@ -1,0 +1,5 @@
+{
+    "editor.renderLineHighlightOnlyWhenFocus": true,
+    "editor.emptySelectionClipboard": false,
+    "editor.copyWithSyntaxHighlighting": false
+}
